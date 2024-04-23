@@ -17,8 +17,9 @@
                 </li>
                 <li><a href="quemsomos.php">QUEM SOMOS</a>
                 </li>
-                <li><a href="contatos.php">CONTATOS</a>
+                <li><a href="manutençoes.php">MANUTENÇÕES</a>
                 </li>
+
             </ul>
 
             <form>

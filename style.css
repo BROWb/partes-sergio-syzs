@@ -2,10 +2,8 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 100%;
-    text-align: center;
     color: rgb(0, 0, 0);
-    
-      
+    text-align: justify;
 }
 *{
     margin: 0;
@@ -16,6 +14,11 @@ article{
     background: #ffffff1a;
     padding: 30px 30px;
     margin: 20px 20px 20px 0;
+   
+  
+
+    
+    
 }
 .navbar{
     display: inline;
@@ -34,14 +37,14 @@ article{
 .navbar ul li{
     margin-bottom: 5px;
     padding: 10px;
-    text-align: center;
+    text-align: justify;
 
    
 }
 .navbar ul li a{
     display: block;
     color: white;
-    text-align: center;
+    text-align: justify;
     padding: 14px 16px;
     text-decoration: none;
 }
@@ -76,18 +79,16 @@ ul {
     background-color: #111;
   }
 
-  .img2{
+.img1{
 
-    width: -0%;
-    height: 100%;
-  
+    width: 200px;
+    
     
   }
  
 .img1{
   width: 100%;
   height: 100%;
-  
     
    
 }
@@ -102,6 +103,4 @@ color: #111;
   margin-bottom: 5px;
 
 }
-.ram{
-  text-align: center;
-}
+

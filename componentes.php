@@ -17,7 +17,7 @@
                 </li>
                 <li><a href="quemsomos.php">QUEM SOMOS</a>
                 </li>
-                <li><a href="contatos.php">CONTATOS</a>
+                <li><a href="manutençoes.php">MANUTENÇÕES</a>
                 </li>
             </ul>
 
@@ -78,19 +78,24 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
             <h1>O que é memoria RAM?</h1>
             <hr size="6px" width="100%" color="#3b0063"></hr>
         </div>
+        <table>
+            <tr>
+                <td>
         <article class="ram">
                 <br>
                 <h2>A memória de acesso aleatório, ou RAM, é o hardware encontrado nas entradas de memória da placa-mãe. O papel da RAM é armazenar em caráter instantâneo e temporário as informações criadas por programas e fazer isso de forma que os dados possam ser acessados depois imediatamente. Algumas das tarefas que exigem memória aleatória, ou RAM, são: renderizar imagens para design gráfico, vídeos ou fotografias editadas, trabalhar em diversos aplicativos ao mesmo tempo (por exemplo, ter um jogo aberto em uma tela e conversar no Discord em outra).
                 </h2>
                 </article>
-              
-              
+                </td>
+              <td>
                 <div class="ram">
-                <img src="ram.png" >
-
-                </div>
-            
+                <img src="ram.png" width="650px" ;
+  >
                 
+                </div>
+                </td>
+                </tr>
+                </table>
             
         
 
@@ -109,7 +114,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 </td>
                 <td>
                 <div class="img5">
-                <img src="placam.png" >
+                <img src="hd.png" >
 
                 </div>
             
@@ -130,7 +135,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 </td>
                 <td>
                 <div class="img6">
-                <img src="placam.png" >
+                <img src="ssd.png" >
 
                 </div>
             
@@ -153,7 +158,7 @@ E não é só isso: as GPUs modernas cumprem um papel computacional mais amplo q
                 </td>
                 <td>
                 <div class="img7">
-                <img src="placam.png" >
+                <img src="und.png" >
 
                 </div>
             
@@ -177,7 +182,7 @@ Conhecer seu computador e os componentes dele pode ser muito útil na hora de mo
                 </td>
                 <td>
                 <div class="img8">
-                <img src="placam.png" >
+                <img src="fonte.png" >
 
                 </div>
             
