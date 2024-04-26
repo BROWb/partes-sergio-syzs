@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <section class="container">
@@ -17,28 +18,27 @@
                 </li>
                 <li><a href="quemsomos.php">QUEM SOMOS</a>
                 </li>
-              
+                <li><a href="manutençoes.php">MANUTENÇÕES</a>
+                </li>
+
                 
-               
+                <input id="searchbar" onkeyup="search_itens()" type="text"
+        name="search" placeholder="Search itens..">
+      
+    <!-- ordered list -->
+    <ol id='list'>
+        <li class="itens"><a href="index.php">HOME</a></li>
+        <li class="itens"><a href="componentes.php">PERIFÉRICOS</a></li>
+        <li class="itens"><a href="quemsomos.php">QUEM SOMOS</a></li>
+        <li class="itens"><a href="manutençoes.php">ma</a></li>
+      
+    </ol>
+
+
+    <script src="main.js"></script>
            
-            <div class="dropdown" mt-4>
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    manutençoes
-  </button> 
-  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" href="#">Alguma ação</a>
-    <a class="dropdown-item" href="#">Outra ação</a>
-    <a class="dropdown-item" href="#">Alguma coisa aqui</a>
-  </div>
-  </ul>
-
-</div>
-
-            <form>
-                <input type="text">
-                <button>pesquisa</button>
-            </form>
-        </nav>
+            </ul>
+</nav>
 
         <div class="img1">
         <img src="img1.png" width="60%";>
@@ -64,7 +64,7 @@
     padding: 0;
 }
 article{
-    width: 50%;
+    width: 80%;
     background: #ffffff1a;
     padding: 30px 30px;
     margin: 20px 20px 20px 0;
@@ -156,6 +156,9 @@ color: #111;
 .img3{
   margin-bottom: 5px;
 
+}
+ol li{
+  list-style-type: nome;
 }
 
 

@@ -104,3 +104,6 @@ color: #111;
 
 }
 
+ol li{
+  list-style-type: nome;
+}
