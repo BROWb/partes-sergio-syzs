@@ -20,23 +20,6 @@
                 </li>
                 <li><a href="manutençoes.php">MANUTENÇÕES</a>
                 </li>
-
-                
-                <input id="searchbar" onkeyup="search_itens()" type="text"
-        name="search" placeholder="Search itens..">
-      
-    <!-- ordered list -->
-    <ol id='list'>
-        <li class="itens"><a href="index.php">HOME</a></li>
-        <li class="itens"><a href="componentes.php">PERIFÉRICOS</a></li>
-        <li class="itens"><a href="quemsomos.php">QUEM SOMOS</a></li>
-        <li class="itens"><a href="manutençoes.php">ma</a></li>
-      
-    </ol>
-
-
-    <script src="main.js"></script>
-           
             </ul>
 </nav>
 
