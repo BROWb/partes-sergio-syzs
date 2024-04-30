@@ -18,21 +18,47 @@
                 </li>
                 <li><a href="quemsomos.php">QUEM SOMOS</a>
                 </li>
-                <li><a href="manutençoes.php">MANUTENÇÕES</a>
+                <li>
+                <div class="dropdown">
+  <button>Profile</button>
+  <div class="dropdown-options">
+    <a href="#">Dashboard</a>
+    <a href="#">Setting</a>
+    <a href="#">Logout</a>
+  </div>
+</div>
                 </li>
             </ul>
 </nav>
 
         <div class="img1">
         <img src="img1.png" width="60%";>
-        </div>
-
+        
         <article>
-           <h3>Quer saber qual hardware o seu computador possui? Torne-se um especialista em informática com nosso guia rápido sobre esses componentes essenciais e suas funções.
-           </h3>
+          <h3>
+          O que é o hardware:
+          </h3>
+           <h5>Hardware é uma palavra de origem inglesa que, no âmbito da informática, é utilizada para designar a parte física de um computador. São todos os componentes palpáveis de um dispositivo eletrônico, como placas, memória, processador, teclado, monitor, etc.
+           </h5>
            <br>
-           <h4>Em uma definição bem simples, o termo hardware refere-se aos componentes físicos de que um computador precisa para funcionar. O termo envolve tudo que tenha uma placa de circuito e opere dentro de um computador ou notebook, como placa-mãe, placa de vídeo, CPU (unidade de processamento central), ventoinhas, webcam, fonte de alimentação e assim por diante.
-           </h4>
+           <h3>
+           Hardware interno:
+           </h3>
+           <h5>
+           Se refere aos componentes localizados no interior do dispositivo, essenciais para o seu funcionamento. Ou seja, sem um deles, o celular, tablet ou PC não funciona corretamente ou, simplesmente, é inutilizado.
+
+Exemplos: placas de memória RAM, discos rígidos, SSDs internos, leitores de mídia (CD, DVD ou Blue Ray), placas-mãe, processadores, coolers, fontes, placas de vídeo, etc.
+<h5>
+            <h3>
+            Hardware externo:
+            </h3>
+            <h5>São todos os componentes conectados externamente a um dispositivo, por portas como USB, VGA, Ethernet, HDMI, de áudio, etc. Em geral, agregam funções não essenciais ao computador, como imprimir um documento, ouvir áudio ou ampliar a capacidade de armazenamento. São, em suma, todos os periféricos conectados.
+
+Exemplos: impressoras, scanners, monitores, mouses, teclados, webcams, fones de ouvido, microfones, auto-falantes, cabos, unidades de armazenamento externas (HDs, cartões SSD, pendrives), projetores, joysticks etc.</h5>
+           Se refere aos componentes localizados no interior do dispositivo, essenciais para o seu funcionamento. Ou seja, sem um deles, o celular, tablet ou PC não funciona corretamente ou, simplesmente, é inutilizado.
+
+Exemplos: placas de memória RAM, discos rígidos, SSDs internos, leitores de mídia (CD, DVD ou Blue Ray), placas-mãe, processadores, coolers, fontes, placas de vídeo, etc.
+           </h5>
         </article>
     </section>
 <style>
@@ -68,7 +94,7 @@ article{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-image: linear-gradient(to right, #3b0063, #a200ff, #00000070);
+    background-image: linear-gradient(to right, #a200ff, #4B0082,#7B68EE);
 
 }
 .navbar ul li{

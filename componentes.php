@@ -27,8 +27,10 @@
         </nav>
     
         <div>
-            <h1>O que é placa-mãe</h1>
+        <font color="#4B0082">
+            <h2>O que é placa-mãe  </h2>
             <hr size="6px" width="100%" color="#3b0063"></hr>
+            </font>
         </div>
         <table>
             <tr>
@@ -38,6 +40,7 @@
                  Ao escolher uma placa-mãe, é importante checar que portas de hardware ela oferece. É vital ver o nível das portas USB oferecidas (USB 2.0, 3.0, 3.1), além dos tipos de porta de tela usados (HDMI, DVI, RGB) e a quantidade total de cada uma. As portas da placa-mãe também ajudam a entender quais outros componentes de hardware serão compatíveis com seu computador, como o tipo de RAM e de placa de vídeo que você pode usar.
                 Embora a placa-mãe seja só uma peça do circuito inteiro, é nela que uma das peças de hardware mais importantes: o processador.
                 </h2>
+                       
                 </article>
                 </td>
                 <td>
@@ -51,8 +54,10 @@
         </table>
 
         <div>
-            <h1>O que é uma CPU (processador/unidade de processamento central)</h1>
+        <font color="#4B0082">
+            <h2>O que é uma CPU (processador/unidade de processamento central)</h2>
             <hr size="6px" width="100%" color="#3b0063"></hr>
+            </font>
         </div>
         <table>
             <tr>
@@ -65,7 +70,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 </td>
                 <td>
                 <div class="img3">
-                <img src="cpu.png" >
+                <img src="cpu.png" width="500px" ; >
 
                 </div>
             
@@ -73,8 +78,10 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
             </tr>
         </table>
         <div>
-            <h1>O que é memoria RAM?</h1>
+        <font color="#4B0082">
+            <h2>O que é memoria RAM?</h2>
             <hr size="6px" width="100%" color="#3b0063"></hr>
+            </font>
         </div>
         <table>
             <tr>
@@ -87,7 +94,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 </td>
               <td>
                 <div class="ram">
-                <img src="ram.png" width="650px" ;
+                <img src="ram.png" width="500px" ;
   >
                 
                 </div>
@@ -99,8 +106,10 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
 
 
         <div>
-            <h1>O que é um disco rígido?</h1>
+        <font color="#4B0082">
+            <h2>O que é um disco rígido?</h2>
             <hr size="6px" width="100%" color="#3b0063"></hr>
+            </font>
         </div>
         <table>
             <tr>
@@ -112,7 +121,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 </td>
                 <td>
                 <div class="img5">
-                <img src="hd.png" >
+                <img src="hd.png" width="500px" ; >
 
                 </div>
             
@@ -121,8 +130,10 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
         </table>
 
         <div>
-            <h1>O que é um ssd?</h1>
+        <font color="#4B0082">
+            <h2>O que é um ssd?</h2>
             <hr size="6px" width="100%" color="#3b0063"></hr>
+            </font>
         </div>
         <table>
             <tr>
@@ -132,8 +143,8 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 </article>
                 </td>
                 <td>
-                <div class="img6">
-                <img src="ssd.png" >
+                <div class="img6" ;>
+                <img src="ssd.png"width="500px" >
 
                 </div>
             
@@ -142,8 +153,10 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
         </table>
 
         <div>
-            <h1>O que é uma unidade de processamento gráfico (GPU)?</h1>
+        <font color="#4B0082">
+            <h2>O que é uma unidade de processamento gráfico (GPU)?</h2>
             <hr size="6px" width="100%" color="#3b0063"></hr>
+            </font>
         </div>
         <table>
             <tr>
@@ -155,8 +168,8 @@ E não é só isso: as GPUs modernas cumprem um papel computacional mais amplo q
                 </article>
                 </td>
                 <td>
-                <div class="img7">
-                <img src="und.png" >
+                <div class="img7 " ;>
+                <img src="und.png"width="500px" >
 
                 </div>
             
@@ -165,8 +178,10 @@ E não é só isso: as GPUs modernas cumprem um papel computacional mais amplo q
         </table>
 
         <div>
-            <h1>O que é uma unidade de alimentação (PSU)?</h1>
+        <font color="#4B0082">
+            <h2>O que é uma unidade de alimentação (PSU)?</h2>
             <hr size="6px" width="100%" color="#3b0063"></hr>
+            </font>
         </div>
         <table>
             <tr>
