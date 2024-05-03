@@ -11,17 +11,33 @@
 <body>
     <section class="container">
         <nav class="navbar">
-            <ul>
-                <li><a href="index.php">HOME</a>
+        <ul>
+                <li><a href="index.php">HOME</a></li>
+                <li><a href="#">COMPONENTES</a>
+                <ul class="dropdown">
+                    <li><a href="#">PLACA-MÃE</a></li>
+                    <li><a href="#">CPU</a></li>
+                    <li><a href="#">MEMÓRIA RAM</a></li>
+                    <li><a href="#">DISCO RÍGIDO</a></li>
+                    <li><a href="#">SSD</a></li>
+                    <li><a href="#">GPU</a></li>
+                    <li><a href="#">PSU</a></li>
+                  </ul>
                 </li>
-                <li><a href="componentes.php">PERIFÉRICOS</a>
+                <li><a href="quemsomos.php">QUEM SOMOS</a></li>
+                <li>
+                <a href="#">MANUTENÇÕES</a>
+                  <ul class="dropdown">
+                    <li><a href="#">PLACA-MÃE</a></li>
+                    <li><a href="#">CPU</a></li>
+                    <li><a href="#">MEMÓRIA RAM</a></li>
+                    <li><a href="#">DISCO RÍGIDO</a></li>
+                    <li><a href="#">SSD</a></li>
+                    <li><a href="#">GPU</a></li>
+                    <li><a href="#">PSU</a></li>
+                  </ul>
                 </li>
-                <li><a href="quemsomos.php">QUEM SOMOS</a>
-                </li>
-                <li><a href="manutençoes.php">MANUTENÇÕES</a>
-                </li>
-
-            </ul
+            </ul>
 
         </nav>
     </section>

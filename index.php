@@ -6,30 +6,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <section class="container">
         <nav class="navbar">
             <ul>
-                <li><a href="index.php">HOME</a>
+                <li><a href="index.php">HOME</a></li>
+                <li><a href="#">COMPONENTES</a>
+                <ul class="dropdown">
+                    <li><a href="#">PLACA-MÃE</a></li>
+                    <li><a href="#">CPU</a></li>
+                    <li><a href="#">MEMÓRIA RAM</a></li>
+                    <li><a href="#">DISCO RÍGIDO</a></li>
+                    <li><a href="#">SSD</a></li>
+                    <li><a href="#">GPU</a></li>
+                    <li><a href="#">PSU</a></li>
+                  </ul>
                 </li>
-                <li><a href="componentes.php">PERIFÉRICOS</a>
-                </li>
-                <li><a href="quemsomos.php">QUEM SOMOS</a>
-                </li>
+                <li><a href="quemsomos.php">QUEM SOMOS</a></li>
                 <li>
-                <div class="dropdown">
-  <button>Profile</button>
-  <div class="dropdown-options">
-    <a href="#">Dashboard</a>
-    <a href="#">Setting</a>
-    <a href="#">Logout</a>
-  </div>
-</div>
+                <a href="#">MANUTENÇÕES</a>
+                  <ul class="dropdown">
+                    <li><a href="#">PLACA-MÃE</a></li>
+                    <li><a href="#">CPU</a></li>
+                    <li><a href="#">MEMÓRIA RAM</a></li>
+                    <li><a href="#">DISCO RÍGIDO</a></li>
+                    <li><a href="#">SSD</a></li>
+                    <li><a href="#">GPU</a></li>
+                    <li><a href="#">PSU</a></li>
+                  </ul>
                 </li>
             </ul>
-</nav>
+          </nav>
 
         <div class="img1">
         <img src="img1.png" width="60%";>
@@ -94,13 +102,15 @@ article{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-image: linear-gradient(to right, #a200ff, #4B0082,#7B68EE);
+    background-image: linear-gradient(to right, #3b0063, #a200ff, #00000070);
 
 }
 .navbar ul li{
     margin-bottom: 5px;
     padding: 10px;
     text-align: justify;
+    display: inline-block;
+    position:relative;
 
    
 }
@@ -115,7 +125,19 @@ article{
     background-color: #111;
    
 }
+.navbar ul li ul.dropdown li{
+  display: block;
+}
 
+.navbar ul li ul.dropdown li a{
+  font-size:10px
+}
+
+.navbar ul li ul.dropdown{
+  width:100%
+  z-index: 999;
+  display:none;
+}
 
 ul {
     list-style-type: none;
@@ -138,9 +160,13 @@ ul {
   }
   
 
-  li a:hover {
+.navbar ul li a:hover {
     background-color: #111;
   }
+
+.navbar ul li:hover ul.dropdown{
+display:block;
+}
 
 .img1{
 
