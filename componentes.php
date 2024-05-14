@@ -52,6 +52,7 @@
                 <td>
                 <div class="img1">
                 <img src="placam.png">
+                <p>Fonte: Google Fotos</p>
 
                 </div>
             
@@ -77,6 +78,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 <td>
                 <div class="img3">
                 <img src="cpu.png" width="500px" ; >
+                <p>Fonte: Google Fotos</p>
 
                 </div>
             
@@ -101,7 +103,8 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
               <td>
                 <div class="ram">
                 <img src="ram.png" width="500px" ;
-  >
+                <p>Fonte: Google Fotos</p>
+  
                 
                 </div>
                 </td>
@@ -128,7 +131,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 <td>
                 <div class="img5">
                 <img src="hd.png" width="500px" ; >
-
+                <p>Fonte: Google Fotos</p>
                 </div>
             
                 </td>
@@ -151,6 +154,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 <td>
                 <div class="img6" ;>
                 <img src="ssd.png"width="500px" >
+                <p>Fonte: Google Fotos</p>
 
                 </div>
             
@@ -176,6 +180,7 @@ E não é só isso: as GPUs modernas cumprem um papel computacional mais amplo q
                 <td>
                 <div class="img7 " ;>
                 <img src="und.png"width="500px" >
+                <p>Fonte: Google Fotos</p>
 
                 </div>
             
@@ -193,16 +198,15 @@ E não é só isso: as GPUs modernas cumprem um papel computacional mais amplo q
             <tr>
                 <td><article>
                 <br>
-                <h4> Uma unidade de alimentação, comumente abreviada como PSU, faz mais do que só fornecer energia para o computador. A energia de uma fonte de energia externa entra no sistema por meio dela e é alocada pela placa-mãe a componentes de hardware. Porém, nem todas as unidades, ou fontes de alimentação, são iguais, e sem uma PSU com a tensão certa, seu sistema não funciona.
-Geralmente, um computador moderno precisa de uma PSU com classificação entre 500 W e 850 W para efetivamente alimentar todos os componentes, embora o tamanho dela dependa exclusivamente do consumo de energia do sistema. Computadores usados para tarefas de alta intensidade, como o design gráfico ou jogos, exigem componentes mais potentes que, por consequência, precisarão de uma PSU maior para suprir essa necessidade adicional de energia.
-Sem a quantidade certa de energia, os componentes não funcionarão como deveriam e o computador pode passar por falhas ou simplesmente nem ligar. É recomendado ter uma fonte de alimentação que cubra mais do que o uso do seu sistema. Isso não só protege contra falhas do sistema, mas também dispensa uma eventual troca se você decida trocar seus componentes por outros mais potentes no futuro.
-Conhecer seu computador e os componentes dele pode ser muito útil na hora de modernizar, trocar peças, ou até mesmo montar um computador. Caso surja um problema interno no computador, você terá um maior conhecimento da importância de cada componente, da necessidade de estarem em boas condições de funcionamento e saberá como agir para resolver problemas. 
+                <h4> A fonte de alimentação é um componente de aparelhos eletrônicos que serve para transformar a energia elétrica que chega pelas tomadas em uma corrente elétrica contínua, ou seja, a fonte de alimentação recebe a energia em 110V ou 220V e transforma na voltagem adequada para o funcionamento do aparelho, que geralmente é de 12V ou 24V.
+
+Uma fonte de alimentação pode elevar ou baixar o nível de tensão, e também há aquelas que apenas isolam o circuito da rede de energia elétrica. A fonte de alimentação ainda é um importante protetor contra picos de energia e instabilidade, muito comuns no Brasil, sendo que cada tipo de equipamento exigirá uma fonte de alimentação específica.
                 </article>
                 </td>
                 <td>
                 <div class="img8">
                 <img src="fonte.png" >
-
+                <p> Fonte: Google Fotos</p>
                 </div>
             
                 </td>

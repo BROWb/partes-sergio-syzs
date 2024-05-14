@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
+
 <body>
     <section class="container">
     <nav class="navbar">
@@ -19,7 +20,7 @@
                 <li>
                 <a href="#">MANUTENÇÕES</a>
                   <ul class="dropdown">
-                    <li><a href="./manutençao/placa-mae.html">PLACA-MÃE</a></li>
+                  <li><a href="./manutençao/placa-mae.html">PLACA-MÃE</a></li>
                     <li><a href="./manutençao/cpu.html">CPU</a></li>
                     <li><a href="./manutençao/memoria-ram.html">MEMÓRIA RAM</a></li>
                     <li><a href="./manutençao/disco-rigido.html">DISCO RÍGIDO</a></li>

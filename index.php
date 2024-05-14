@@ -8,7 +8,7 @@
    
 </head>
 <body>
-  
+
     <section class="container">
         <nav class="navbar">
             <ul>
@@ -31,30 +31,30 @@
             </ul>
           </nav>
 
-        <div class="img1">
-        <img src="img1.png" width="60%";>
+ 
         
         <article>
-          <h3>
+          <h2>
           O que é o hardware:
-          </h3>
-           <h5>Hardware é uma palavra de origem inglesa que, no âmbito da informática, é utilizada para designar a parte física de um computador. São todos os componentes palpáveis de um dispositivo eletrônico, como placas, memória, processador, teclado, monitor, etc.
-           </h5>
-           <br>
-           <h3>
-           Hardware interno:
+          </h2>
+           <h3>Hardware é qualquer elemento físico de computadores e outros sistemas microeletrônicos. Ele pode ser um dispositivo externo ou interno. Em inglês, hardware significa “equipamento”.
            </h3>
-           <h5>
+           <br>
+           <h2>
+           Hardware interno:
+           </h2>
+           <h3>
            Se refere aos componentes localizados no interior do dispositivo, essenciais para o seu funcionamento. Ou seja, sem um deles, o celular, tablet ou PC não funciona corretamente ou, simplesmente, é inutilizado.
 
 Exemplos: placas de memória RAM, discos rígidos, SSDs internos, leitores de mídia (CD, DVD ou Blue Ray), placas-mãe, processadores, coolers, fontes, placas de vídeo, etc.
 <h5>
-            <h3>
+  <br>
+            <h2>
             Hardware externo:
-            </h3>
-            <h5>São todos os componentes conectados externamente a um dispositivo, por portas como USB, VGA, Ethernet, HDMI, de áudio, etc. Em geral, agregam funções não essenciais ao computador, como imprimir um documento, ouvir áudio ou ampliar a capacidade de armazenamento. São, em suma, todos os periféricos conectados.
+            </h2>
+            <h3>São todos os componentes conectados externamente a um dispositivo, por portas como USB, VGA, Ethernet, HDMI, de áudio, etc. Em geral, agregam funções não essenciais ao computador, como imprimir um documento, ouvir áudio ou ampliar a capacidade de armazenamento. São, em suma, todos os periféricos conectados.
 
-Exemplos: impressoras, scanners, monitores, mouses, teclados, webcams, fones de ouvido, microfones, auto-falantes, cabos, unidades de armazenamento externas (HDs, cartões SSD, pendrives), projetores, joysticks etc.</h5>
+Exemplos: impressoras, scanners, monitores, mouses, teclados, webcams, fones de ouvido, microfones, auto-falantes, cabos, unidades de armazenamento externas (HDs, cartões SSD, pendrives), projetores, joysticks etc.</h3>
           
 
 
