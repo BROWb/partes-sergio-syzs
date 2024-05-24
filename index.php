@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
    
 </head>
 <body>
@@ -30,35 +31,44 @@
                 </li>
             </ul>
           </nav>
-
- 
         
         <article>
-          <h2>
-          O que é o hardware:
-          </h2>
+
+        <div>
+          <font color="#4B0082">
+            <h2>O que é o hardware:</h2>
+            <hr size="6px" width="100%" color="#3b0063"></hr>
+          </font>
+        </div>
+
            <h3>Hardware é qualquer elemento físico de computadores e outros sistemas microeletrônicos. Ele pode ser um dispositivo externo ou interno. Em inglês, hardware significa “equipamento”.
            </h3>
            <br>
-           <h2>
-           Hardware interno:
-           </h2>
+
+        <div>
+          <font color="#4B0082">
+            <h2>Hardware interno:</h2>
+            <hr size="6px" width="100%" color="#3b0063"></hr>
+          </font>
+        </div>
            <h3>
            Se refere aos componentes localizados no interior do dispositivo, essenciais para o seu funcionamento. Ou seja, sem um deles, o celular, tablet ou PC não funciona corretamente ou, simplesmente, é inutilizado.
-
-Exemplos: placas de memória RAM, discos rígidos, SSDs internos, leitores de mídia (CD, DVD ou Blue Ray), placas-mãe, processadores, coolers, fontes, placas de vídeo, etc.
-<h5>
-  <br>
-            <h2>
-            Hardware externo:
-            </h2>
+          <br><br>
+            Exemplos: placas de memória RAM, discos rígidos, SSDs internos, leitores de mídia (CD, DVD ou Blue Ray), placas-mãe, processadores, coolers, fontes, placas de vídeo, etc.
+            </h3>
+          <br>
+          <div>
+          <font color="#4B0082">
+            <h2>Hardware externo:</h2>
+            <hr size="6px" width="100%" color="#3b0063"></hr>
+          </font>
+        </div>
             <h3>São todos os componentes conectados externamente a um dispositivo, por portas como USB, VGA, Ethernet, HDMI, de áudio, etc. Em geral, agregam funções não essenciais ao computador, como imprimir um documento, ouvir áudio ou ampliar a capacidade de armazenamento. São, em suma, todos os periféricos conectados.
-
-Exemplos: impressoras, scanners, monitores, mouses, teclados, webcams, fones de ouvido, microfones, auto-falantes, cabos, unidades de armazenamento externas (HDs, cartões SSD, pendrives), projetores, joysticks etc.</h3>
+            <br><br>
+            Exemplos: impressoras, scanners, monitores, mouses, teclados, webcams, fones de ouvido, microfones, auto-falantes, cabos, unidades de armazenamento externas (HDs, cartões SSD, pendrives), projetores, joysticks etc.</h3>
           
 
 
-           </h5>
         </article>
     </section>
 <style>
